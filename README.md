@@ -1,3 +1,3 @@
 #kakao clone
 
-Css Got So Much Better!
+HTML & Css Got So Much Better!
